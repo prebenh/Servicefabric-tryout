@@ -27,7 +27,6 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Users\preben\Documents\Visual Studio 2015\Projects\Application1\MyStatefulService\MyStatefulService.csproj" />
     <ProjectReference Include="..\MyStatelessService\MyStatelessService.csproj" />
     <ProjectReference Include="..\WebApi1\WebApi1.csproj" />
   </ItemGroup>

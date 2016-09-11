@@ -117,10 +117,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Users\preben\Documents\Visual Studio 2015\Projects\Application1\MyStatefulService\MyStatefulService.csproj">
-      <Project>{ed0059e4-11c3-4d6a-a6f4-7367d03e8718}</Project>
-      <Name>MyStatefulService</Name>
-    </ProjectReference>
     <ProjectReference Include="..\MyStatelessService\MyStatelessService.csproj">
       <Project>{44ff01d1-34d7-4ff5-8c9c-499940b5fb56}</Project>
       <Name>MyStatelessService</Name>
