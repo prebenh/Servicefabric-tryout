@@ -3,8 +3,5 @@
   <Parameters>
     <Parameter Name="MyStatelessService_InstanceCount" Value="1" />
     <Parameter Name="WebApi1_InstanceCount" Value="1" />
-    <Parameter Name="MyStatefulService_PartitionCount" Value="1" />
-    <Parameter Name="MyStatefulService_MinReplicaSetSize" Value="3" />
-    <Parameter Name="MyStatefulService_TargetReplicaSetSize" Value="3" />
   </Parameters>
 </Application>
